@@ -10,3 +10,5 @@
 - ❤️‍🔥 Amazing npm bloatware!
 - ☕️ Buy me a coffee because I spent all my money on Github Enterprise!
 - 💷 Support Indie!
+
+> *sadly, this project is no longer maintained, thank you to all our supporters (0)* 🥹
